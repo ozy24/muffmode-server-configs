@@ -1,6 +1,6 @@
 # MuffMode Server Configs
 
-This directory contains server configuration files for MuffMode, providing per-gametype configurations and a baseline setup for running a MuffMode server.
+This repository contains server configuration files for MuffMode, providing per-gametype configurations and a baseline setup for running a MuffMode server.
 
 ## Files Overview
 
